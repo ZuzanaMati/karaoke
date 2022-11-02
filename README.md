@@ -1,1 +1,1 @@
-# karaoke-zadani
+# Karaoke - zadání
