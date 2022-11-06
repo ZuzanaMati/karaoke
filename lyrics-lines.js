@@ -13,7 +13,7 @@ export default [
   { time: 56.20, text: "Yesterday you told me 'bout the blue blue sky" },
   { time: 59.18, text: "And all that I can see is just a yellow lemon tree" },
   { time: 65.94, text: "I'm turnin' my head up and down" },
-  { time: 59.68, text: "I'm turnin', turnin', turnin', turnin', turnin' around" },
+  { time: 69.68, text: "I'm turnin', turnin', turnin', turnin', turnin' around" },
   { time: 72.69, text: "And all that I can see is just another lemon tree" },
   { time: 78.19, text: "Sing!" },
   { time: 79.84, text: "Dap-dadada-dadpm-didap-da" },
